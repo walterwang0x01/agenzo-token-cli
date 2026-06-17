@@ -34,3 +34,6 @@ coverage/
 # Local E2E test script (contains personal email / card details)
 scripts/test-commands.sh
 
+
+# CodeGraph
+.codegraph/
